@@ -1,0 +1,1 @@
+# Search-Arabic-TEXTS-by-REGEX
